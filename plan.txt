@@ -1,0 +1,21 @@
+###   PLAN   ###
+
+## Versions ##
+
+    # Foreword #
+        For a new version to be released the features specified under
+        the new versions of the software will have to be implemented
+        in such way it is specified, and debugged.
+
+        Every version before "V1.0" is considered in the "Alpha" stage
+        of development. After the "V1.0" version it is to be considered
+        in "Beta". When the software is to be released as the "Live release"
+        is completely up to the developer as long as it has already
+        supassed the "Alpha" stage.
+
+## Priority list ##
+    1. Getting python to play audio.
+    2. Make a menu to select songs (update list every time it restarts).
+    3. Make progress bar and such things.
+    4. Organice, comment and clean the code.
+    5. Repeat.
